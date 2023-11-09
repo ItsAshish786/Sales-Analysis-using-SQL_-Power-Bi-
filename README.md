@@ -1,1 +1,1 @@
-# Sales-Analysis-using-SQL_-Power-Bi-
+# Sales-Analysis-using-SQL_Power-Bi
